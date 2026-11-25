@@ -1,1 +1,1 @@
-# HBB-DNA-and-Protein-BLAST-Analysis
+# HBB-DNA-BLAST-Analysis
